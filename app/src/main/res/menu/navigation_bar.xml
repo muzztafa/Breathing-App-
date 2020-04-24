@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeNav"
+        android:icon="@drawable/baseline_home_black_24dp"
+        android:title="@string/nav_home" />
+    <item
+        android:id="@+id/sleepNav"
+        android:icon="@drawable/sleep"
+        android:title="@string/nav_sleep" />
+    <item
+        android:id="@+id/meditationNav"
+        android:icon="@drawable/exercise"
+        android:title="@string/nav_meditation" />
+    <item
+        android:id="@+id/relaxNav"
+        android:icon="@drawable/resting"
+        android:title="@string/nav_relax" />
+    <item
+        android:id="@+id/profileNav"
+        android:icon="@drawable/baseline_person_black_24dp"
+        android:title="@string/nav_profile" />
+</menu>
