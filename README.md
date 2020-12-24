@@ -1,4 +1,6 @@
-# Breathing-App-
+# Breathing App
+
+Play Store link: https://play.google.com/store/apps/details?id=com.mukundan.breatheasymindfulbreathingmeditationforhealth
 
 Hey there.
 
@@ -10,4 +12,7 @@ It has two themes (Dark and Light). You can select between the two in the settin
 
 The entire app runs on different count down timers: Simple, but highly effective.
 
-Thanks!
+
+#Splash Screen
+
+![](images/splashScreen.webp)
