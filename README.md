@@ -13,6 +13,20 @@ It has two themes (Dark and Light). You can select between the two in the settin
 The entire app runs on different count down timers: Simple, but highly effective.
 
 
-#Splash Screen
+# Splash Screens
 
 ![](images/splashScreen.webp)
+
+![](images/1.webp) ![](images/2.webp)
+
+
+# Home Screen
+
+![](images/homeScreen.webp)
+
+# Customize Screen
+
+![](images/customizeScreen.webp)
+
+# Night Mode
+![](images/nightMode.webp)
